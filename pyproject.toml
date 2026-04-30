@@ -1,5 +1,5 @@
 [project]
-name = "postgres_tool"
+name = "sql_tool"
 version = "1.0.2"
 description = "Read-only PostgreSQL tool suite for CrewAI agents"
 readme = "README.md"
