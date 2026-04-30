@@ -1,6 +1,6 @@
 [project]
 name = "postgres_tool"
-version = "1.0.1"
+version = "1.0.2"
 description = "Read-only PostgreSQL tool suite for CrewAI agents"
 readme = "README.md"
 requires-python = ">=3.10,<3.14"
